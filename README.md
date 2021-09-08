@@ -1,7 +1,7 @@
 # @Plusid/typescript-peers
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ARKEcosystem/peers/master/banner.png" />
+    <img src="" />
 </p>
 
 ## Installation
