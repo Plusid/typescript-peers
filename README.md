@@ -1,4 +1,4 @@
-# @Plusid/typescript-peers
+# @plusid/typescript-peers
 
 <p align="center">
     <img src="" />
@@ -7,7 +7,7 @@
 ## Installation
 
 ```bash
-yarn add @Plusid/typescript-peers
+yarn add @plusid/typescript-peers
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ yarn add @Plusid/typescript-peers
 ### Peers via GitHub
 
 ```ts
-import { PeerDiscovery } from "@Plusid/typescript-peers";
+import { PeerDiscovery } from "@plusid/typescript-peers";
 
 peerDiscovery = await PeerDiscovery.new({
 	networkOrHost: "devnet"
@@ -31,7 +31,7 @@ peers = peerDiscovery
 ### Peers via Relay
 
 ```ts
-import { PeerDiscovery } from "@Plusid/typescript-peers";
+import { PeerDiscovery } from "@plusid/typescript-peers";
 
 peerDiscovery = await PeerDiscovery.new({
 	networkOrHost: "",
